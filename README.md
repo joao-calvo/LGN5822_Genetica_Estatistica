@@ -1,10 +1,10 @@
-# LGN5822 - Genética-Estatística I Fundamentos (2026)
+# LGN5822 - Statistical Genetics I: Foundations (2026)
 
-Repositório para acompanhamento das aulas da disciplina LGN5822.
+Repository for materials from the LGN5822 course.
 
-Scripts futuros:
-- Modelos lineares (Regressão e ANOVA)
-- Modelos lineares mistos
-- Delineamentos
-- Interação GxE e análise de estabilidade
+Future scripts:
+- Linear models (Regression and ANOVA)
+- Linear mixed models
+- Experimental designs
+- G×E interaction and stability analysis
 
